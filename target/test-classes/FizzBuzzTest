@@ -1,0 +1,13 @@
+import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.*;
+
+public class FizzBuzzTest {
+
+    @Test
+    public void testFizzBuzz() {
+        assertEquals("Fizz", FizzBuzz.checkNumber(3));
+        assertEquals("Buzz", FizzBuzz.checkNumber(5));
+        assertEquals("FizzBuzz", FizzBuzz.checkNumber(15));
+        assertEquals("2", FizzBuzz.checkNumber(2));
+    }
+}

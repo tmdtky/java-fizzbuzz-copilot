@@ -1,0 +1,7 @@
+version: '3'
+services:
+  fizzbuzz:
+    build: .
+    container_name: fizzbuzz_container
+    stdin_open: true
+    tty: true
