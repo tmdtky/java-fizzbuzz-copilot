@@ -7,7 +7,7 @@
 実行したら1から100までの数字において、上記条件で標準出力に改行つきで出力するプログラムを作ってください。
 
 ## 用いた技術
-Java11、JUnit5、Maven4、Docker、docker-compose
+Java11、JUnit5、Maven4、Docker、docker-compose、GitHub Actions
 
 ## 動作方法
 ```
