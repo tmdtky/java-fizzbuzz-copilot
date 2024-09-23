@@ -17,7 +17,7 @@ docker-compose build --no-cache
 docker-compose up
 ```
 
-## 動作結果確認後
+## 動作結果確認後（後始末）
 ```
 docker-compose down
 ```
