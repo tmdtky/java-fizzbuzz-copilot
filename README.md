@@ -16,3 +16,8 @@ cd java-fizzbuzz-copilot
 docker-compose build --no-cache
 docker-compose up
 ```
+
+## 動作結果確認後
+```
+docker-compose down
+```
